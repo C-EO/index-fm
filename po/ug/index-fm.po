@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: index-fm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:51+0000\n"
-"PO-Revision-Date: 2026-05-30 16:34-0400\n"
+"PO-Revision-Date: 2026-09-22 18:03+0900\n"
 "Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
 "Language-Team: Uyghur <kde-i18n-doc@kde.org>\n"
 "Language: ug\n"
@@ -601,7 +601,7 @@ msgstr ""
 #: src/widgets/views/SettingsDialog.qml:317
 #, kde-format
 msgid "M"
-msgstr "M"
+msgstr ""
 
 #: src/widgets/views/SettingsDialog.qml:276
 #: src/widgets/views/SettingsDialog.qml:324
