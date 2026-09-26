@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: index-fm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:51+0000\n"
-"PO-Revision-Date: 2026-08-05 19:23+0200\n"
+"PO-Revision-Date: 2026-09-25 17:29+0200\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: Norwegian Nynorsk <l10n-no@nuug.no>\n"
 "Language: nn\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 26.11.70\n"
+"X-Generator: Lokalize 26.08.1\n"
 "X-Environment: kde\n"
 "X-Accelerator-Marker: &\n"
 "X-Text-Markup: kde4\n"
@@ -680,7 +680,7 @@ msgstr "Synkroniser gjeldande mappe i terminalen med mappa ein er i."
 #: src/widgets/views/SettingsDialog.qml:384
 #, kde-format
 msgid "Adaptive Color Scheme"
-msgstr "Dynamisk fargeoppsett"
+msgstr "Dynamisk fargetema"
 
 #: src/widgets/views/SettingsDialog.qml:385
 #, kde-format
@@ -690,12 +690,12 @@ msgstr "Fargar baset på gjeldande stil."
 #: src/widgets/views/SettingsDialog.qml:396
 #, kde-format
 msgid "Color Scheme"
-msgstr "Fargeoppsett"
+msgstr "Fargetema"
 
 #: src/widgets/views/SettingsDialog.qml:397
 #, kde-format
 msgid "Change the color scheme of the terminal."
-msgstr "Byt fargeoppsett for terminalen."
+msgstr "Byt fargetema for terminalen."
 
 #: src/widgets/views/SettingsDialog.qml:416
 #: src/widgets/views/SettingsDialog.qml:443
